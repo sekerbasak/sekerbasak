@@ -1,5 +1,5 @@
  
- [![MasterHead](https://github.com/sekerbasak/sekerbasak/blob/main/.github/workflows/Ads%C4%B1z%20tasar%C4%B1m.png)
+ [![MasterHead](https://github.com/sekerbasak/sekerbasak/blob/main/.github/workflows/img.png)
 <h1 align="center">Hi 👋, I'm Başak!</h1>
 <h3 align="center">A passionate Computer Engineer from Turkey</h3>
 
