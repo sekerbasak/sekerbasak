@@ -27,9 +27,9 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sekerbasak&show_icons=true&locale=en&layout=compact" alt="sekerbasak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sekerbasak&show_icons=true&locale=en" alt="sekerbasak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sekerbasak&show_icons=true&locale=en" alt="sekerbasak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sekerbasak&" alt="sekerbasak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=sekerbasak&" alt="sekerbasak" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sekerbasak/sekerbasak/output/github-contribution-grid-snake-dark.svg">
