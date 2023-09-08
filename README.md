@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekerbasak&label=Profile%20views&color=0e75b6&style=flat" alt="sekerbasak" /> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Java, C#**
 
