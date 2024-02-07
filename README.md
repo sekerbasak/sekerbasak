@@ -5,15 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekerbasak&label=Profile%20views&color=0e75b6&style=flat" alt="sekerbasak" /> </p>
 
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **Java, C#**
-
 - 📫 How to reach me **basak.skr.551@gmail.com**
 
-- ⚡ Fun fact **too serious about business**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
