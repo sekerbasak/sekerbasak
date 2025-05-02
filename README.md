@@ -1,5 +1,5 @@
  
- ![MasterHead](https://github.com/sekerbasak/sekerbasak/blob/main/.github/workflows/image.png)
+ ![MasterHead](https://github.com/sekerbasak/sekerbasak/blob/main/.github/workflows/1.png)
 <h1 align="center">Başak Şeker</h1>
 
 
