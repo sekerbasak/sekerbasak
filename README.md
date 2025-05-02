@@ -1,7 +1,8 @@
-# Başak Şeker
+
 
 <div align="center">
-  <img src="https://github.com/sekerbasak/sekerbasak/blob/main/.github/workflows/2.png" alt="NetworkBanner" width="100%">
+  <img src="https://github.com/sekerbasak/sekerbasak/blob/main/.github/workflows/2.png" alt="NetworkBanner">
+    <h3>Başak Şeker</h3>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekerbasak&label=Profile%20views&color=0e75b6&style=flat" alt="sekerbasak" /> </p>
