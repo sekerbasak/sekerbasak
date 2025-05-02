@@ -1,13 +1,12 @@
- 
- ![MasterHead](https://github.com/sekerbasak/sekerbasak/blob/main/.github/workflows/2.png)
-<h1 align="center">Başak Şeker</h1>
+# Başak Şeker
 
+<div align="center">
+  <img src="https://github.com/sekerbasak/sekerbasak/blob/main/.github/workflows/2.png" alt="NetworkBanner" width="100%">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekerbasak&label=Profile%20views&color=0e75b6&style=flat" alt="sekerbasak" /> </p>
 
 - 📫 How to reach me **basak.skr.551@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +22,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sekerbasak&show_icons=true&locale=en" alt="sekerbasak" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sekerbasak/sekerbasak/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sekerbasak/sekerbasak/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sekerbasak/sekerbasak/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sekerbasak/sekerbasak/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sekerbasak/sekerbasak/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sekerbasak/sekerbasak/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
